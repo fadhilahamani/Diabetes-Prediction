@@ -1,0 +1,8 @@
+- link url dataset Pima Indians Diabetes Database:
+
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+
+- link model deployment heroku:
+
+https://diabetes-prediction-fadhilah.herokuapp.com/
